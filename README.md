@@ -29,4 +29,5 @@
 ![model.png](documentacao%2Fdiagrama-classes%2Fmodel.png)
 
 # Link do Video
-[https://www.youtube.com/watch?v=V7Ntv5wPsF0](https://www.youtube.com/watch?v=Wb2HLcZJjNk)
+[[https://www.youtube.com/watch?v=V7Ntv5wPsF0](https://www.youtube.com/watch?v=Wb2HLcZJjNk)
+](https://www.youtube.com/watch?v=xZnYJc3lSt4)
