@@ -33,7 +33,7 @@ public class MensageriaRabbitController {
     @PostMapping("/enviar_mensagem_rabbit")
     public String enviarMensagemRabbit(@RequestParam("mensagem") String msg, Model model) {
         produtorRabbit.enviarMensagem(msg);
-        model.addAttribute("mensagem", "Mensagem enviada com sucesso");
+        model.addAttribute("mensagem", "Mensagem enviada com sucesso: " + msg);
         return "enviar_mensagem_rabbit";
     }
 }
